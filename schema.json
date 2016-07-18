@@ -112,6 +112,11 @@
       "description": "Project repository URL",
       "type": "string"
     },
+    "issues": {
+      "title": "issues URL",
+      "description": "URL where issues for the project can be submitted",
+      "type": "string"
+    },
     "geography": {
       "title": "geographic tags",
       "description": "Project geographic/location tags",
